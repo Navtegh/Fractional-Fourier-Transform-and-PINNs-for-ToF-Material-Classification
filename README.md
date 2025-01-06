@@ -45,6 +45,8 @@ ToF imaging technology is widely used in fields such as robotics, autonomous veh
 - Conversion of ToF data to time-domain resulted in sinc-like functions, providing insights into temporal characteristics.
 - The learnable fractional Fourier transform layer converged to a parameter value near -0.8, consistently improving classification accuracy across datasets.
 - The approach demonstrated up to 96.9% accuracy for five-material classification and 94% accuracy for 14 materials.
+
+  
  ![alt text](https://github.com/Navtegh/Fractional-Fourier-Transform-and-PINNs-for-ToF-Material-Classification/blob/main/Results_12_14.png)
 
 ---
