@@ -63,7 +63,7 @@ The project successfully optimized ToF-based material classification using novel
 - Exploring multi-modal data fusion for enhanced classification.
 ---
 
-##Setup and Requirements
+## Setup and Requirements
 1. Install MATLAB
 2. Install Deep Learning Toolbox, Optimization Toolbox and Partial Differential Equation Toolbox.
 ---
