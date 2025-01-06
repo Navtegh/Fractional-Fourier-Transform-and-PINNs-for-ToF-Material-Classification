@@ -45,6 +45,7 @@ ToF imaging technology is widely used in fields such as robotics, autonomous veh
 - Conversion of ToF data to time-domain resulted in sinc-like functions, providing insights into temporal characteristics.
 - The learnable fractional Fourier transform layer converged to a parameter value near -0.8, consistently improving classification accuracy across datasets.
 - The approach demonstrated up to 96.9% accuracy for five-material classification and 94% accuracy for 14 materials.
+ ![alt text](https://github.com/Navtegh/Fractional-Fourier-Transform-and-PINNs-for-ToF-Material-Classification/blob/main/Results_12_14.png)
 
 ---
 ## Limitations
@@ -60,43 +61,22 @@ The project successfully optimized ToF-based material classification using novel
 - Implementing real-time testing in practical environments.
 - Developing hybrid models that integrate physics-based and data-driven approaches.
 - Exploring multi-modal data fusion for enhanced classification.
-
 ---
-## Setup and Requirements
-**Dependencies:**
-- Python 3.8+
-- TensorFlow / PyTorch
-- NumPy
-- Matplotlib
-- SciPy
-- OpenCV
 
-**Installation:**
-```bash
-pip install -r requirements.txt
-```
-
+##Setup and Requirements
+1. Install MATLAB
+2. Install Deep Learning Toolbox, Optimization Toolbox and Partial Differential Equation Toolbox.
 ---
+
 ## Usage
 1. Clone the repository:
 ```bash
-git clone https://github.com/username/project_name.git
+git clone [https://github.com/Navtegh/Fractional-Fourier-Transform-and-PINNs-for-ToF-Material-Classification.git]
 ```
 2. Navigate to the project directory:
-```bash
-cd project_name
-```
-3. Run the training script:
-```bash
-python train_model.py
-```
-4. Evaluate results:
-```bash
-python evaluate.py
-```
+   /Ffrt_learnable_a/
+3. Run the training and evaluation script:
+   mainfile.m
 
----
-## License
-MIT License  
-See `LICENSE` for details.
+
 
