@@ -1,5 +1,5 @@
 # Fractional Fourier Transform and PINNs for ToF Material Classification
-
+![alt text](https://github.com/Navtegh/Fractional-Fourier-Transform-and-PINNs-for-ToF-Material-Classification/blob/main/Images/Method.png)
 ## Project Overview
 This project explores advanced techniques for material classification using Time-of-Flight (ToF) imagery data. By integrating Physics-Informed Neural Networks (PINNs) and developing a novel neural network architecture with a learnable Fractional Fourier transform, this research aims to enhance classification accuracy and efficiency. The project focuses on reducing computational overhead to enable real-time classification on resource-constrained devices.
 
